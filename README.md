@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Mohit Saini</h1>
 <h3 align="center">An enthusiastic full stack developer based in India, driven by a passion to transform lines of code into impactful solutions that bring meaning to the digital world.</h3>
 
-<img align="left" alt="Coding" width="600" src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisms11&label=Profile%20views&color=0e75b6&style=flat" alt="thisisms11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisms11" alt="thisisms11" /></a> </p>
+<img align="left" alt="Coding" width="600" src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw">
 
 <p align="left"> <a href="https://twitter.com/thisisms11" target="blank"><img src="https://img.shields.io/twitter/follow/thisisms11?logo=twitter&style=for-the-badge" alt="thisisms11" /></a> </p>
 
