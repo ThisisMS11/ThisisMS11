@@ -1,7 +1,8 @@
+![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Mohit Saini</h1>
 <h3 align="center">An enthusiastic full stack developer based in India, driven by a passion to transform lines of code into impactful solutions that bring meaning to the digital world.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisms11&label=Profile%20views&color=0e75b6&style=flat" alt="thisisms11" /> </p>
 
