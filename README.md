@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://drive.google.com/file/d/1SXivv81ys0cpYntJyAnvEP9hlgdP6YvS/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Mohit Saini</h1>
 <h3 align="center">An enthusiastic full stack developer based in India, driven by a passion to transform lines of code into impactful solutions that bring meaning to the digital world.</h3>
 
