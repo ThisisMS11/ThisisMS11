@@ -1,4 +1,5 @@
-![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/ThisisMS11/ThisisMS11/assets/91526766/d8ae3357-fbf0-49f0-9637-16dd53630232)
+![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/ThisisMS11/ThisisMS11/assets/91526766/11efca0d-49a9-44c7-9083-9867d21ec09e)
+
 
 <h1 align="center">Hi 👋, I'm Mohit Saini</h1>
 <h3 align="center">An enthusiastic full stack developer based in India, driven by a passion to transform lines of code into impactful solutions that bring meaning to the digital world.</h3>
